@@ -8,4 +8,5 @@ sim/work/*
 syn/work/
 syn/work/*
 
-./hiddenfile.txt
+/hiddenfile.txt
+hiddenfile.txt
